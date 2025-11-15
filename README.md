@@ -1,4 +1,4 @@
-# Fire-prediction
+# ForestGuard
 Código que se implementará en satelites con el objetivo de predecir incendios forestales.
 
 Este proyecto utiliza una combinación de **Transfer Learning (MobileNetV2)** y **análisis de color en espacio HSV** para clasificar imágenes de bosques según su posible **riesgo de incendio**.  
