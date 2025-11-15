@@ -18,9 +18,9 @@ El modelo fue diseñado para aprender correctamente incluso con un **dataset peq
 El dataset debe tener esta estructura:
 
 dataset/
--Baja/
--Moderada/
--Alta/
+Baja/
+Moderada/
+Alta/
 
 
 Las carpetas deben llamarse exactamente:
