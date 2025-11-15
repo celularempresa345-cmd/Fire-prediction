@@ -100,7 +100,9 @@ Instalación:
 
 pip install tensorflow opencv-python numpy matplotlib
 
-📸 Objetivo del Proyecto
+---
+
+## 📸 Objetivo del Proyecto
 
 Crear un sistema capaz de identificar el nivel de riesgo de incendio según:
 -La composición de colores
