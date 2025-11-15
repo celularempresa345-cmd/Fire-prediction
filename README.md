@@ -99,7 +99,7 @@ Google Colab (recomendado)
 Instalación:
 
 pip install tensorflow opencv-python numpy matplotlib
-
+```
 ---
 
 ## 📸 Objetivo del Proyecto
