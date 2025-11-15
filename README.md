@@ -105,8 +105,8 @@ pip install tensorflow opencv-python numpy matplotlib
 ## 📸 Objetivo del Proyecto
 
 Crear un sistema capaz de identificar el nivel de riesgo de incendio según:
--La composición de colores
--El estado aparente de la vegetación
--Los patrones captados por MobileNetV2
+1. La composición de colores
+2. El estado aparente de la vegetación
+3. Los patrones captados por MobileNetV2
 
 Aplicable a investigación, análisis ambiental, proyectos estudiantiles y prototipos de alerta temprana.
