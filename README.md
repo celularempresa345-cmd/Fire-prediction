@@ -12,15 +12,19 @@ Las clases disponibles son:
 El modelo fue diseñado para aprender correctamente incluso con un **dataset pequeño (~50 imágenes por clase)** gracias a técnicas avanzadas de regularización, aumento de datos y análisis de color.
 
 ---
-
 ## 📁 Dataset
 
-El dataset debe tener esta estructura:
+Debido al tamaño de las imágenes, el dataset no está incluido directamente en este repositorio.  
+Puedes descargarlo desde Google Drive en el siguiente enlace:
 
-dataset/
-Baja/
-Moderada/
-Alta/
+[📂 Descargar Dataset](https://drive.google.com/file/d/1WKnrjc4o1n9ZAiZsEtalPZdsOmuDWxYU/view?usp=sharing)
+
+El dataset debe tener la siguiente estructura después de descargarlo:
+
+`dataset/`
+- `Baja/`
+- `Moderada/`
+- `Alta/`
 
 
 Las carpetas deben llamarse exactamente:
