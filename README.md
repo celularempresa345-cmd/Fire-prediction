@@ -114,3 +114,14 @@ Crear un sistema capaz de identificar el nivel de riesgo de incendio según:
 3. Los patrones captados por MobileNetV2
 
 Aplicable a investigación, análisis ambiental, proyectos estudiantiles y prototipos de alerta temprana.
+
+---
+
+## 🤖 Uso de ChatGPT
+
+Este proyecto hizo uso de **ChatGPT (OpenAI)** como asistente para:
+
+- Generación de código en Python y TensorFlow/Keras.
+- Optimización del flujo de entrenamiento y predicción.
+
+El uso de ChatGPT permitió acelerar el desarrollo y mejorar la claridad del código, aunque todas las decisiones finales de diseño, entrenamiento y prueba fueron tomadas por el autor.
